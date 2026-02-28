@@ -38,12 +38,14 @@ It supports **Basic**, **Scientific**, and **History** modes with a clean UI and
 
 ```bash
 # Clone the repository
-git clone
+git clone https://github.com/manigandan578/ReactCalculator
 
-cd react-scientific-calculator
+cd calculator
 
 # Install dependencies
-npm install
+npm install i
+npm install mathjs
+
 
 # Run locally
-npm start
+npm run dev
